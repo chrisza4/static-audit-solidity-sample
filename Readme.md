@@ -2,11 +2,17 @@
 
 Example for me to remember how to use [Slither](https://github.com/crytic/slither) to static analysing smart contract in Git
 
+### Pre-requiste
+
+1. Install [Slither](https://github.com/crytic/slither)
+2. Install [Truffle](https://www.trufflesuite.com/)
+3. Install [Yarn](https://yarnpkg.com/)
+
 ### Sample file
 
-Coin with OpenZeppelin
+Coin with OpenZeppelin in contracts/MyCoin.sol
 
-### Runa
+### Run
 
 Install dependencies via Yarn
 
